@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "Dio"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "jade": "^1.11.0"
+  }
+}
